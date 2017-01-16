@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2945286D31CCA7BFFB1A0EE6913A81F6E8FE3D9B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2945286D31CCA7BFFB1A0EE6913A81F6E8FE3D9B" : 9223372036854775807,
+    "115C94923599BDF86C0C392ECE938FD67F0699C5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "28F48920-0637-45B5-9FC2-3937C1D15CEB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2945286D31CCA7BFFB1A0EE6913A81F6E8FE3D9B" : "SamplePod\/",
+    "115C94923599BDF86C0C392ECE938FD67F0699C5" : "SamplePod\/SamplePod\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SamplePod",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SamplePod.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ThahirM\/SamplePod.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "115C94923599BDF86C0C392ECE938FD67F0699C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ThahirM\/SamplePod.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2945286D31CCA7BFFB1A0EE6913A81F6E8FE3D9B"
+    }
+  ]
+}
